@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">012AutoSpa</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="services"><u>OUR SERVICES</u></string>
+    <string name="products"><u>OUR PRODUCTS</u></string>
+    <string name="about_heading"><u>012 AutoSpa</u></string>
+    <string name="about_us">012 AutoSpa was officially established in 2016, making this our 5th annual successful business year! The business started off as a small sole trading business that sold Turtle Wax car products. Due to the success of that, we expanded and began to offer high-standard car wash services towards the end of 2016 and HERE WE ARE TODAY.</string>
+    <string name="mission">To provide a service that is highly standardized that sets the bar sky-high for our competitors. We aim to create long-lasting relationships with our customers by providing a service of excellent quality. Making our customer and their vehicle our FIRST priority.</string>
+    <string name="vision">We envision 012 AutoSpa becoming a franchise car-wash service business The goal is to become highly recognized in Gauteng and then expand, our company as a franchise throughout the country.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

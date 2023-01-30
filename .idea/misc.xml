@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_bottom_nav_menu.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.1503623188405797" />
+        <entry key="app/src/main/res/layout/booking_overview.xml" value="0.271484375" />
+        <entry key="app/src/main/res/layout/booking_overviews.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_booking.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_contact.xml" value="0.2797427652733119" />
+        <entry key="app/src/main/res/layout/fragment_menus.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_user_bookings.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_viewBookings.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_view_bookings.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_wash_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/list_bookings.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/login_card.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/register_card.xml" value="0.115625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

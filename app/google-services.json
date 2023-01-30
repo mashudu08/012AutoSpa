@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153363975394",
+    "firebase_url": "https://autospa-a4225-default-rtdb.firebaseio.com",
+    "project_id": "autospa-a4225",
+    "storage_bucket": "autospa-a4225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153363975394:android:07c265ea9969906e4da2bb",
+        "android_client_info": {
+          "package_name": "com.example.a012autospa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153363975394-tuj1tafooeip29ac5omek659jf7lp0la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9ewnxQ5rQcYxxi4w-D_KHx05iaE6hqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153363975394-tuj1tafooeip29ac5omek659jf7lp0la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
